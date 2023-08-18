@@ -21,6 +21,4 @@ The Awesome JavaScript Game is a thrilling project that showcases the power of J
 
 To get started playing the Awesome JavaScript Game:
 
-1. Clone this repository to your local machine using:
-   ```sh
-   git clone https://github.com/your-username/awesome-js-game.git
+
